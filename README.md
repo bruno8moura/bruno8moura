@@ -1,6 +1,6 @@
 ### Hi, I'm Bruno Moura 👋
 
-- :bulb: Computational Scientits
+- :bulb: Computer Scientist
 - 🤓 Full Time Backend Engineer at [@Inmetrics](https://inmetrics.com.br) <br>
 - 🇧🇷 Living in Maringá, Paraná, Brazil <br>
 
