@@ -2,7 +2,7 @@
 
 - :bulb: Computer Scientist
 - 🤓 Full Time Backend Engineer at [@Inmetrics](https://inmetrics.com.br) <br>
-- 🇧🇷 Living in Maringá, Paraná, Brazil <br>
+- 🇧🇷 Living in Beberibe, Ceará, Brazil <br>
 
 ### Technologies I work
 
