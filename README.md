@@ -1,8 +1,8 @@
 ### Hi, I'm Bruno Moura 👋
 
 - :bulb: Computer Scientist
-- 🤓 Full Time Backend Engineer at [@Inmetrics](https://inmetrics.com.br) <br>
-- 🇧🇷 Living in Beberibe, Ceará, Brazil <br>
+- 🤓 FullStack Software Engineer at [@Inmetrics](https://inmetrics.com.br) <br>
+- 🇧🇷 Living in Fortaleza, Ceará, Brazil <br>
 
 ### Technologies I work
 
